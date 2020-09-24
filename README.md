@@ -3,4 +3,4 @@
 
 ## The Launcher is For Linux not for Windows and Mac!
 
-## 
+## Downlaod the Installer on my website [CLick Here](http://www.luxuscraft.tk/netflix-launcher/)
